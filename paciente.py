@@ -20,3 +20,5 @@ class Paciente:
     @nombre.setter
     def nombre(self, nombre:str)->None:
         self._nombre = nombre
+
+    
