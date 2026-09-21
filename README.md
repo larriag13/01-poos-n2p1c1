@@ -19,3 +19,6 @@ Añade todos los archivos nuevos, modificados o eliminados del directorio actual
 
 ### `git commit -m "comentario"`
 Guarda permanentemente los cambios preparados en el historial del repositorio local. El parámetro `-m` permite escribir un mensaje descriptivo ("comentario") directamente desde la terminal para explicar de qué trata el cambio.
+
+### `git push origin main"
+Sube la rama actua main al repositorio en Github, se suben el proyecto local y se sincroniza.
